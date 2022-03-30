@@ -64,4 +64,3 @@ function random(range) {
 }
 
 main();
-setInterval(main, 30 * 1000);
